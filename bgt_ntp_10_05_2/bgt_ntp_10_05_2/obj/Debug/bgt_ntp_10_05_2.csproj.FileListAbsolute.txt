@@ -1,0 +1,10 @@
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\bin\Debug\bgt_ntp_10_05_2.exe.config
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\bin\Debug\bgt_ntp_10_05_2.exe
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\bin\Debug\bgt_ntp_10_05_2.pdb
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.Form1.resources
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.Properties.Resources.resources
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.csproj.GenerateResource.cache
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.csproj.CoreCompileInputs.cache
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.exe
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.pdb
+C:\Users\lab1\source\repos\bgt_ntp_10_05_2\bgt_ntp_10_05_2\obj\Debug\bgt_ntp_10_05_2.csprojAssemblyReference.cache
